@@ -17,11 +17,12 @@ Desarrollarme como especialista en ciberseguridad aplicando mis conocimientos in
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## Herramientas
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-2F5C88?style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 ### Endpoint
