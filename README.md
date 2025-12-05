@@ -8,7 +8,7 @@ Desarrollarme como especialista en ciberseguridad aplicando mis conocimientos in
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Proyecto asociado         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
@@ -43,7 +43,3 @@ Desarrollarme como especialista en ciberseguridad aplicando mis conocimientos in
 <div>
 <img src="https://img.shields.io/badge/-eJPT-000000?style=for-the-badge&logo=HackTheBox&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
