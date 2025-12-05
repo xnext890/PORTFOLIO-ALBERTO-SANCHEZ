@@ -13,7 +13,7 @@ Desarrollarme como especialista en ciberseguridad aplicando mis conocimientos in
 | Escáneo de puertos          | <a href="https://github.com/xnext890/port-scanner">Enlace del proyecto</a>|
 
 
-## Herramientas
+## Herramientas utilizadas
 
 ### Network
 <div>
@@ -28,11 +28,25 @@ Desarrollarme como especialista en ciberseguridad aplicando mis conocimientos in
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
+### RMM (Remote Monitoring and Management)
+<div>
+    <img src="https://img.shields.io/badge/-NinjaOne-0081C9?style=for-the-badge&logo=NinjaOne&logoColor=white" />
+</div>
+
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Rapid7-F26F21?style=for-the-badge&logo=Rapid7&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+## Programación
+<div>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
 ## Certificaciones
